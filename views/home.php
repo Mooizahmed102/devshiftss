@@ -106,18 +106,18 @@
                             
                         </li>
                         <li class="dropdown">
-                            <a href="#"  >Company</a>
+                            <a href="#company"  >Company</a>
                             
                         </li>
                         <li class="dropdown">
                             <a href="#services"  >Services</a>
                           
                         </li>
-                        <li><a href="case-studies.html">Case Studies</a></li>
+                        <li><a href="#case">Case Studies</a></li>
                        
-                        <li>
+                        <!-- <li>
                             <a href="contact.html">Contact</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div>
@@ -184,7 +184,7 @@
 
     <!-- Star Features Area
     ============================================= -->
-    <div class="features-area default-padding-bottom">
+    <div id="company" class="features-area default-padding-bottom">
         <!-- Fixed Shape  -->
         <div class="shape-left-top shape opacity-01">
             <img src="assets/img/shape/4.png" alt="Shape">
@@ -397,7 +397,7 @@
 
     <!-- Start Process Area
     ============================================= -->
-    <div class="process-area default-padding-top">
+    <div id="case" class="process-area default-padding-top">
         <div class="container">
             <div class="process-items">
                 <div class="row align-center">
@@ -467,7 +467,7 @@
                                         </div>
                                         <div class="info">
                                             <h5>Email:</h5>
-                                            <span>support@validtemplates.com</span>
+                                            <span>info@devshifts.com</span>
                                         </div>
                                     </li>
                                     <li>
@@ -476,7 +476,7 @@
                                         </div>
                                         <div class="info">
                                             <h5>Phone:</h5>
-                                            <span>+44-20-7328-4499</span>
+                                            <span>+1 (561) 403-3270</span>
                                         </div>
                                     </li>
                                 </ul>
@@ -537,8 +537,8 @@
                                 <span><i class="fas fa-calendar-alt"></i> 22 Aug, 2020 -  <a href="#">Admin</a></span>
                             </div>
                             <div class="item">
-                                <a href="#">Speaking trifling an to unpacked moderate debating learnin management. </a>
-                                <span><i class="fas fa-calendar-alt"></i> 15 Nov, 2020 -  <a href="#">User</a></span>
+                                <a>Address: 515 N Flagler Dr West Palm Beach, FL 33401 </a>
+                                
                             </div>
                         </div>
                     </div>
